@@ -2,3 +2,18 @@
 /*date color: 3498db*/
 /*h2 #2c3e50*/
 /*font source sans pro*/
+
+*
+{
+}
+body{
+    border: 10px solid #bdc3c7;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.date
+{
+
+}
+
